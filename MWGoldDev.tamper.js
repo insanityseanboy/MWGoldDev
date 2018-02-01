@@ -26,6 +26,7 @@
 // @require     MWGold.main.js
 // ==/UserScript==
 //v=1.17.5
+// Copyright 2016, Sean Lithgow, All rights reserved. Except jQuery and jQueryUI.
 debugMode = true; showMemStuff=true;
 
 makeAwesome();
